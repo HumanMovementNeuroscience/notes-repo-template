@@ -1,7 +1,7 @@
 f = []
-g = {}
+g = []
 for i in range(200):
     f.append(i)
-    g[i] = f
+    g.append(i^i)
 
 print(f)
