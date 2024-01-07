@@ -2,7 +2,13 @@
 // @TODO: Make it work or document how to copy to user keybindings
 [
   {
+    "key": "ctrl+shift+n",
+    "command": "foam-vscode.create-note",
+    "platform": "win32"
+  },
+  {
     "key": "cmd+shift+n",
-    "command": "foam-vscode.create-note",    
+    "command": "foam-vscode.create-note",
+    "platform": "darwin"
   }
 ]
