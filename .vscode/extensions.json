@@ -54,8 +54,6 @@
     "ms-python.vscode-pylance",
     "ms-toolsai.jupyter",
 
-    //Debug Visualizer
-    "hediet.debug-visualizer",
   ] 
 }
 ],
